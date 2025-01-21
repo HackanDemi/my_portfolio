@@ -34,19 +34,23 @@ main {
     max-width: 900px;
     margin: 0 auto;
     padding: 2rem;
-    background-color: rgb(62, 62, 62);
+    background-color: rgb(21, 21, 21);
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
     font-size: 2rem;
-    color: #000000;
+    color: #d9d9d9;
 }
 
 h2 {
     font-size: 1.5rem;
-    color: #ffffff;
+    color: #d9d9d9;
+}
+
+#card {
+    color: #d9d9d9;
 }
 
 .text-xl {
@@ -67,6 +71,9 @@ footer {
 }
 
 #foot-text-color {
-    color: white;
+    color: rgb(99, 99, 99);
 }
 
+#link {
+    color: #0168d0cf;
+}
